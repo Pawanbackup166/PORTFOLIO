@@ -9,6 +9,6 @@ export default defineConfig({
                 experience: resolve(__dirname, 'experience.html')
             }
         }
-    }
+    },
     base: process.env.VITE_BASE_PATH || "/PORTFOLIO"
 })
